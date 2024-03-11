@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: DefectTest2Project
+  gitServerName: ICAccountTest0311
+  gitUrl: https://github.com/amlanbhowmick85/DefectTest2Project
+  gitUsername: amlanbhowmick85
+  gitBranch: main
